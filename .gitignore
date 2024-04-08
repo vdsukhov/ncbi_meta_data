@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+# compressed tables
+*.tsv.gz
+
 # C extensions
 *.so
 
